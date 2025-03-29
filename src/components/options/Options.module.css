@@ -1,0 +1,15 @@
+.optionList {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 15px;
+}
+
+.btn {
+    border: 1px solid #868686;
+}
+
+.btn:hover,
+.btn:focus {
+    border-color: #262626;
+    outline: none;
+}
